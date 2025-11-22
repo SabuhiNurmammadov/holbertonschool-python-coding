@@ -27,4 +27,4 @@ class Square:
             print()
             return
         for i in range(self.__size):
-            print("#" * self._size)
+            print("#" * self.__size)
